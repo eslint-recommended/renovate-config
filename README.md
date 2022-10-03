@@ -7,7 +7,7 @@ Shareable Config Presets for Renovate
 ```json
 {
   "extends": [
-    "github>/renovate-config"
+    "github>eslint-recommended/renovate-config"
   ]
 }
 ```
